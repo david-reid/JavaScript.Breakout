@@ -1,0 +1,24 @@
+{
+  "name": "javascript.breakout",
+  "version": "1.0.0",
+  "description": "JavaScript clone of Breakout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david-reid/JavaScript.Breakout.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "HTML5",
+    "Breakout"
+  ],
+  "author": "David Reid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/david-reid/JavaScript.Breakout/issues"
+  },
+  "homepage": "https://github.com/david-reid/JavaScript.Breakout#readme"
+}
