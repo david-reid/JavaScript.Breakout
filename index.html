@@ -8,12 +8,21 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
     <script src='index.js'></script>
+    <!-- new styles that remove padding and margins on our body element -->
+    <style>
+        body {
+            padding:0px;
+            margin:0px;
+            background:#313639;
+            color:#f5f5f5;
+        }
+    </style>
 
     <title>JavaScript Breakout</title>
 
 </head>
 
-<body>
+<body onresize="resize();">
 
         <canvas id="canvas" width="600", height="600"></canvas>
     
